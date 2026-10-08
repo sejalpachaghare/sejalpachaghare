@@ -2,10 +2,10 @@
 <h3 align="center">Certified Frappe & ERPNext Developer | Building ERP systems that automate real businesses</h3>
 
 <p align="center">
-  <a href="https:https://www.linkedin.com/in/sejal-pachaghare-99661b290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sejal-pachaghare-99661b290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sejalpachaghare@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/sejalpachghare"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https:https://atcoder.jp/users/sejalpachaghare"><img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://atcoder.jp/users/sejalpachaghare"><img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
