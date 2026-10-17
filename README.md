@@ -60,18 +60,4 @@
 | ✈️ [Airline Management System](https://github.com/sejalpachaghare/airline_management_system) | Frappe custom app for flight tracking, passenger booking & workflow automation |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sejalpachaghare&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalpachaghare&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sejalpachaghare&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">⭐ Open to collaborating on Frappe / ERPNext projects and AI + ERP ideas!</p>
