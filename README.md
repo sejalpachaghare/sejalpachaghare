@@ -13,7 +13,7 @@
 ### 🙋‍♀️ About Me
 
 - 💼 **ERPNext Developer**  — designing ERP architecture for grocery retail
-- 🏫 Built an **Education App on Frappe** used by **1,000+ students & guardians** across multiple schools
+- 🏫  Worked on the development and enhancement of a Frappe-based Education App used by 1,000+ students and guardians across multiple schools.
 - 🛒 Automated order-to-cash & procurement for **500+ suppliers and customers** (WhatsApp orders → Pick Lists → POs → Payments)
 - 🏭 Built a **Bulk Maintenance Task Generation System** for plant maintenance
 - 🤖 Currently exploring **LLM integration with ERP systems**
