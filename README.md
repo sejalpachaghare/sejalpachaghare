@@ -53,50 +53,6 @@
 ---
 
 
-
-### 🛠️ Technical Skills
-
-**⚡ Frameworks & ERP**
-<p>
-  <img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logoColor=white" />
-</p>
-
-**💻 Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-</p>
-
-**🌐 Web Technologies**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" />
-</p>
-
-**🗄️ Databases**
-<p>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-**🔧 Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-</p>
-
-
-
-
-
-
-
-
 ### 🚀 Featured Projects
 
 | Project | Description |
